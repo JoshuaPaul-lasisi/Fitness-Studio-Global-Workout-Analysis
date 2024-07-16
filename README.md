@@ -2,7 +2,14 @@
 
 ## Project Overview
 
-This project aims to help a fitness studio explore the global and national interest in workouts. The analysis focuses on identifying the peak global search interest for the keyword 'workout', the most popular workout-related keywords during the COVID-19 pandemic and currently, the country with the highest workout interest among the United States, Australia, and Japan, and the country with the highest interest in home workouts between the Philippines and Malaysia. This is a Datacamp project
+As a product manager for a fitness studio, I am interested in understanding the current demand for digital fitness classes and identifying potential areas for growth of digital products and services. To achieve this, I plan to conduct a market analysis in Python using data from Google Trends keyword searches related to fitness and related products. This is a Datacamp Project
+
+The data is provided in several CSV files located in the "Files/data" folder, which offer international and national-level data on various fitness-related keywords. The files include:
+
+1. **workout.csv**: Contains the worldwide popularity index of the keyword 'workout' over time.
+2. **three_keywords.csv**: Contains the worldwide popularity indices of the keywords 'home workout', 'gym workout', and 'home gym' over time.
+3. **workout_geo.csv**: Contains the popularity indices of the keyword 'workout' in various countries over a 5-year period.
+4. **three_keywords_geo.csv**: Contains the popularity indices of the keywords 'home workout', 'gym workout', and 'home gym' in various countries over a 5-year period.
 
 ## Key Findings
 
@@ -26,3 +33,10 @@ The analysis is based on data from various sources, including Google Trends and 
 ## Conclusion
 
 This project provides valuable insights into the global and national trends in workout interest, which can help the fitness studio make informed decisions about their product offerings and marketing strategies. The findings can be used to identify the most promising markets for their virtual home workout services and to tailor their content and promotions to the preferences of their target audience.
+
+Citations:
+[1] https://www.ssa.gov/oact/babynames/
+[2] https://trends.google.com/trends/yis/2023/GLOBAL/
+[3] https://www.babycenter.com/baby-names/most-popular/top-baby-names-2023
+[4] https://time.com/6977045/most-popular-baby-names-2023/
+[5] https://www.newsnationnow.com/us-news/popular-baby-names-2023/
