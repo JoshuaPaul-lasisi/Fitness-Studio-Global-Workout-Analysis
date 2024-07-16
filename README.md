@@ -34,9 +34,3 @@ The analysis is based on data from various sources, including Google Trends and 
 
 This project provides valuable insights into the global and national trends in workout interest, which can help the fitness studio make informed decisions about their product offerings and marketing strategies. The findings can be used to identify the most promising markets for their virtual home workout services and to tailor their content and promotions to the preferences of their target audience.
 
-Citations:
-[1] https://www.ssa.gov/oact/babynames/
-[2] https://trends.google.com/trends/yis/2023/GLOBAL/
-[3] https://www.babycenter.com/baby-names/most-popular/top-baby-names-2023
-[4] https://time.com/6977045/most-popular-baby-names-2023/
-[5] https://www.newsnationnow.com/us-news/popular-baby-names-2023/
